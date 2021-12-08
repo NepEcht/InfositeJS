@@ -1,0 +1,79 @@
+{
+  "props": [
+    {
+      "name": "BackgroundGray",
+      "type": "color",
+      "value": "#F8F8F8",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "fsftu0GYT24"
+      }
+    },
+    {
+      "name": "Dark Blue",
+      "type": "color",
+      "value": "#124467",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "gb7MkH77OWJ"
+      }
+    },
+    {
+      "name": "Green",
+      "type": "color",
+      "value": "#1CBF87",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "35CGQozxnBw"
+      }
+    },
+    {
+      "name": "Light Blue",
+      "type": "color",
+      "value": "#529BA8",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "H0pjw2VARHY"
+      }
+    },
+    {
+      "name": "Orange",
+      "type": "color",
+      "value": "#FF6600",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "shav7obOwKz"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 2",
+      "type": "fontfamily",
+      "value": "Poppins",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "oVywj9iHre0"
+      }
+    },
+    {
+      "name": "White",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "2EhpMjay9KyV5XM6pPwG1U",
+        "id": "uLxQX_iKoZ0"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
